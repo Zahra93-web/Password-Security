@@ -1,5 +1,5 @@
 Project Overview
-The Password Strength Checker helps users assess the strength of their passwords by evaluating them against a set of predefined security standards. The tool provides immediate feedback to help users create stronger, more secure passwords for better protection of their online accounts.
+The Password Strength Checker helps you check how strong your password is. It compares your password to security rules and gives feedback to help you create safer, more secure passwords for your online accounts.
 
 Features
 Password Evaluation: The checker assesses the password based on the following:
