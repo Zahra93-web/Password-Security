@@ -1,4 +1,4 @@
-Project Overview
+
 The Password Strength Checker helps you check how strong your password is. It compares your password to security rules and gives feedback to help you create safer, more secure passwords for your online accounts.
 
 Features
